@@ -1,0 +1,22 @@
+.thumbnail  .imageFicheProduit{
+	width: 80%;
+	display: block;
+}
+
+#inputQuantity{
+	margin-right: 10px;
+	margin-left: 10px;	
+	width: 8%;
+}
+
+#wordQuantity{
+	margin-top: 1%;
+}
+
+#mediaBody{
+	padding-left: 5%;
+}
+
+#pullLeft{
+	padding-right: 0%;
+}
